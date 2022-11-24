@@ -1,2 +1,2 @@
-My first readme
-File Updated
+# alx-pre_course
+- This is a git project
